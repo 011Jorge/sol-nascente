@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>I am App</h1>
+      <h1>Sol nascente</h1>
     </div>
   );
 }
